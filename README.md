@@ -17,7 +17,7 @@ I'm a full-stack web developer with a knack for finding and solving problems. Wh
 
 - - - -
 
-### 👩🏻‍🔧 I'm currently working on:
+### 👩🏻‍🔧 I'm currently working on...
  * [My personal portfolio website!](https://jackieodonnell.netlify.app/ "portfolio")
  * [WORDCRAFT: an original mobile word game](https://wordcraft.netlify.app/)
  * [PayBack Money Transfer App - KPI Live Dashboard](https://github.com/jackieodonnell/PayBack-AdminDashboard)
@@ -34,6 +34,7 @@ Just kidding, I'm off-the-grid! But you can give me a shout here:
 ![Jackie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackieodonnell&hide=issues,contribs&count_private=true&show_icons=true)
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackieodonnell)
 
 ### 🎧 Currently listening to...
