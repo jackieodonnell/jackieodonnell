@@ -7,4 +7,5 @@ I'm a full-stack developer with a knack for finding and solving problems. When I
 
 ### Find me on social media:
 Just kidding, I'm off-the-grid! But you can add me on LinkedIn...
+
 <a href="https://www.linkedin.com/in/jackieodonnell" target="blank"><img align="center" src="linkedin.svg" alt="" height="30" /></a>
