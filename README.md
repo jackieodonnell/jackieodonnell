@@ -7,7 +7,7 @@ Welcome to my corner of the web!
 
 ### A little bit about me...
 
-I'm a full-stack web developer with a knack for finding and solving problems. When I'm not pushing commits, you'll often catch me setting up spikes on the volleyball court, building extravagant mansions in The Sims, or chasing my dog down the beach. 🐶
+I'm a full-stack web developer with a knack for finding and solving problems. When I'm not out here pushing commits, you'll often catch me setting up spikes on the volleyball court, building extravagant mansions in The Sims, or chasing my dog down the beach. 🐶
 
 - - - - 
 
