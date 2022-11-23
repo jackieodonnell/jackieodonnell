@@ -1,6 +1,8 @@
-## Hello world. 👋 Welcome to my corner of the web!
-<img align="center" width="100%" src="banner.png"/>
+<p align="center">
+  <img width="50%" src="banner.gif"/>
+</p>
 
+## Hello world. 👋 Welcome to my corner of the web!
 
 I'm a full-stack developer with a knack for finding and solving problems. When I'm not pushing commits, you'll often catch me setting up spikes on the volleyball court, building extravagant mansions in The Sims, or chasing my dog down the beach. 🐶
 
