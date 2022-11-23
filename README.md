@@ -2,7 +2,7 @@
 <img align="center" width="100%" src="banner.png"/>
 
 
-I'm a full-stack developer with a knack for finding and solving problems. When I'm not pushing commits, you'll often catch me setting up spikes on the volleyball court, building extravagant mansions in The Sims, or walking down the beach with my dog. 🐶
+I'm a full-stack developer with a knack for finding and solving problems. When I'm not pushing commits, you'll often catch me setting up spikes on the volleyball court, building extravagant mansions in The Sims, or chasing my dog down the beach. 🐶
 
 
 ### Find me on social media:
