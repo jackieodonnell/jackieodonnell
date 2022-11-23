@@ -3,11 +3,7 @@
 </p>
 
 ## Hi there 👋, I'm Jackie. 
-Welcome to my corner of the web!
-
-### A little bit about me...
-
-I'm a full-stack web developer with a knack for finding and solving problems. When I'm not out here pushing commits, you'll often catch me setting up spikes on the volleyball court, building extravagant mansions in The Sims, or chasing my dog down the beach. 🐶
+Welcome to my corner of the web! I'm a full-stack web developer with a knack for finding and solving problems. When I'm not out here pushing commits, you'll often catch me setting up spikes on the volleyball court, building extravagant mansions in The Sims, or chasing my dog down the beach. 🐶
 
 - - - - 
 
@@ -31,17 +27,16 @@ Just kidding, I'm off-the-grid! But you can give me a shout here:
 
 - - - - 
 ### 👀 Wanna see what I've been up to?
-![Jackie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackieodonnell&hide=issues,contribs&count_private=true&show_icons=true)
+![Jackie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackieodonnell&hide=issues,contribs&count_private=true&show_icons=true&title_color=6282E5&icon_color=6282E5)
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackieodonnell)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackieodonnell&title_color=6282E5)
+- - - - 
 ### 🎧 Currently listening to...
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jlodonnell97&cover_image=false&theme=default&show_offline=false&background_color=2e2e2e)](https://github.com/kittinan/spotify-github-profile)
-
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jlodonnell97&cover_image=false&theme=default&show_offline=false&background_color=2e2e2e)
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=jackieodonnell&style=for-the-badge)
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+![](https://komarev.com/ghpvc/?username=jackieodonnell&style=for-the-badge&color=879AD5&label=PROFILE+VISITORS)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
